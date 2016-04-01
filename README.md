@@ -1,3 +1,5 @@
 # hello-world
-Just another repository
-Just checking commit
+
+More about me at www.haven2.com
+
+
